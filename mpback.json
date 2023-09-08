@@ -1,0 +1,285 @@
+[
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "OpenResty",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "HAproxy",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Grafana",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Prometheus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jira",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jenkins",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Git",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Zabbix",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nexus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "Docker",
+    "ring": "trial",
+    "isNew": "TRUE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platform & infrastructure",
+    "name": "Kubernetes",
+    "ring": "assess",
+    "isNew": "TRUE",
+    "description": ""
+  },
+
+  
+
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nginx",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "S3",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platform & infrastructure",
+    "name": "Gitlab",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  
+
+  {
+    "quadrant": "Data management",
+    "name": "KeyDB",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "ELK",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Kafka",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "Data management",
+    "name": "RabbitMQ",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Beanstalk",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "MongoDB",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Data management",
+    "name": "MariaDB",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "Data management",
+    "name": "Redis",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Postman/Newman",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "OpenResty healthcheck",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "Techniques & tools",
+    "name": "OpenResty lua",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Jmeter",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "SonarCube",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Kafka connect",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Logstash",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "PHP 7.1",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Composer",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "languages & frameworks",
+    "name": "GoLang",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "languages & frameworks",
+    "name": "Symfony",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Lua",
+    "ring": "assess",
+    "isNew": "TRUE",
+    "description": ""
+  },
+
+   {
+    "quadrant": "languages & frameworks",
+    "name": "PHP 8",
+    "ring": "assess",
+    "isNew": "TRUE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Phalcon",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+
+
+
+
+
+]

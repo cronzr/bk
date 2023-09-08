@@ -1,0 +1,134 @@
+[
+    {
+    "quadrant": "Platforms",
+    "name": "Amplitude",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+   {
+    "quadrant": "Platforms",
+    "name": "Firebase",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platforms",
+    "name": "Jenkins",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platforms",
+    "name": "Charles",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+   {
+    "quadrant": "Platforms",
+    "name": "Sonarcube",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+
+  {
+    "quadrant": "Data management",
+    "name": "Room",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "mvp",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "android studio",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+
+  
+    {
+    "quadrant": "Techniques & tools",
+    "name": "kanban",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Techniques & tools",
+    "name": "deep links",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Kotlin",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "MVP Moxy",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Retrofit",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+    {
+    "quadrant": "languages & frameworks",
+    "name": "DI Dagger2",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+      {
+    "quadrant": "languages & frameworks",
+    "name": "Google Play Services",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }, 
+
+      {
+    "quadrant": "languages & frameworks",
+    "name": "Huawei Mobile Services",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+
+]

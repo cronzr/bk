@@ -1,0 +1,135 @@
+[
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Grafana",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Prometheus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Git",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Zabbix",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jenkins",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nginx",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+
+  {
+    "quadrant": "Data management",
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Memcached",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  { 
+    "quadrant": "Data management",
+    "name": "Clickhouse",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Redis",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "Data management",
+    "name": "Beanstalkd",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Selenium",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+    {
+    "quadrant": "Techniques & tools",
+    "name": "Postman",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Techniques & tools",
+    "name": "Insomnia",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "PHP",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Vue JS",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Golang",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+]

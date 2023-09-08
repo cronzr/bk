@@ -1,0 +1,119 @@
+[
+    {
+    "quadrant": "Platforms",
+    "name": "Amplitude",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+   {
+    "quadrant": "Platforms",
+    "name": "Firebase",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platforms",
+    "name": "Jenkins",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platforms",
+    "name": "Charles",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platforms",
+    "name": "YandexMapsMobile",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+
+   {
+    "quadrant": "Platforms",
+    "name": "Sonarcube",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+
+  {
+    "quadrant": "Data management",
+    "name": "Realm 10",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "mvp",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Testflight",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  
+    {
+    "quadrant": "Techniques & tools",
+    "name": "kanban",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Techniques & tools",
+    "name": "CocoaPods",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Swift",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Alamofire",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Codable",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+]

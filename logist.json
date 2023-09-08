@@ -1,0 +1,218 @@
+[
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Grafana",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Prometheus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jira",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Git",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Zabbix",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nexus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "Docker",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jenkins",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+     {
+    "quadrant": "Platform & infrastructure",
+    "name": "Kubernetes",
+    "ring": "assess",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "OpenResty",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  
+
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nginx",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "S3",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+     {
+    "quadrant": "Platform & infrastructure",
+    "name": "Gitlab",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  
+
+  {
+    "quadrant": "Data management",
+    "name": "ELK",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "KeyDB",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Kafka",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Data management",
+    "name": "Redis",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  { 
+    "quadrant": "Data management",
+    "name": "Clickhouse",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "OpenResty healthcheck",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Jmeter",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "SonarCube",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Kafka connect",
+    "ring": "hold",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Logstash",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Techniques & tools",
+    "name": "Postman/Newman",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Package manager",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "DB migration",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "Golang",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+]

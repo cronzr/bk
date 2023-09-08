@@ -1,0 +1,262 @@
+[
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Grafana",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Prometheus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jira",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Git",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Zabbix",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nexus",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "Docker",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Jenkins",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+     {
+    "quadrant": "Platform & infrastructure",
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Helm2",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "JupyterHub",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+    {
+    "quadrant": "Platform & infrastructure",
+    "name": "Apache AirFlow",
+    "ring": "adopt",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "ArgoCD",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "Platform & infrastructure",
+    "name": "Nginx",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+   {
+    "quadrant": "Platform & infrastructure",
+    "name": "S3",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Data management",
+    "name": "ELK",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Memcached",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Data management",
+    "name": "Kafka",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  { 
+    "quadrant": "Data management",
+    "name": "Clickhouse",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+
+  {
+    "quadrant": "Techniques & tools",
+    "name": "pytest",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Python:pipenv",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Apache Spark",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "Techniques & tools",
+    "name": "python:poetry",
+    "ring": "trial",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "Techniques & tools",
+    "name": "Logstash",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+    {
+    "quadrant": "Techniques & tools",
+    "name": "Postman/Newman",
+    "ring": "assess",
+    "isNew": "FALSE",
+    "description": ""
+  },
+
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:FastAPI",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:Flask",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:Pandas",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:NumPy",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:SqlAlchemy",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:Alembic",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:Dash",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "quadrant": "languages & frameworks",
+    "name": "python:PySpark",
+    "ring": "adopt",
+    "isNew": "FALSE",
+    "description": ""
+  }
+
+]
